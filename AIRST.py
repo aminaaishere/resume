@@ -8,3 +8,6 @@ def main():
     
 if __name__ == '__main__':
     main()
+
+# Appel de la clé
+api_key = st.secrets["OPENAI_API_KEY"]
